@@ -9,3 +9,16 @@ input:disabled {
 input:hover{
     border-color:pink
 }
+
+.registration-form input{
+    width: 240px;
+    height: 50;
+    border-radius: 3px;
+}
+
+.registration-form button {
+    width: 120px;
+    height: 36;
+    border: 1px solid lightgray;
+    background-color: khaki;
+}
